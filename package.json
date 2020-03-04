@@ -1,6 +1,6 @@
 {
   "name": "cloudformation-webm-mp3",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Converts WEBM audio files to MP3 files.",
   "main": "index.js",
   "repository": "https://github.com/sammarks/cloudformation-webm-mp3",
