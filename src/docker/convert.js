@@ -102,10 +102,10 @@ const convertAudio = (bucket, srcKey) => {
         '-i',
         sourceFilename,
         '-vn',
-        '-ab',
-        '128k',
+        '-b:a',
+        '320k',
         '-ar',
-        '44100',
+        '48000',
         '-y',
         targetFilename
       ], {
